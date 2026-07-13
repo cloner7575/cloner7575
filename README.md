@@ -16,7 +16,7 @@
 
 - 💼 مشغول به کار در شرکت **بیمه حافظ**
 - 🧩 علاقه‌مند به **سیستم‌های هم‌زمان (Asynchronous Systems)** و بهینه‌سازی عملکرد
-- 🔗 وب‌سایت شخصی من: [zarepy.ir](http://zarepy.ir/)
+- 🔗 وب‌سایت شخصی من: [zarepy.ir](http://jeddy.ir/)
 - 📧 ارتباط: [mrzjkb1375@gmail.com](mailto:mrzjkb1375@gmail.com)
 
 ---
